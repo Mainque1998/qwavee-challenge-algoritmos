@@ -41,8 +41,7 @@ function functionB(arr, target)
 //Test
 let a = functionB([16, 7, 5, 15, 55, 21, 40, 20], 44);
 if(a != null)
-    for(let i=0; i < a.length; i++)
-        console.log(a[i]);
+    console.log(a);
 else
     console.log("No se pudo encontrar un subconjunto que cumpla la condición");
 */

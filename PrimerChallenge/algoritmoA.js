@@ -29,6 +29,5 @@ function functionA(arr)
 /*
 //Test
 let a = functionA([1,2,3,0,1,1,2,1,2,7,9,0,1]);
-for(let i=0; i < a.length; i++)
-    console.log(a[i]);
+console.log(a);
 */
